@@ -19,7 +19,6 @@ Key Variables in the Dataset
 - Gender – Student gender
 - Previous Scores – Historical academic performance indicator
 
-Dashboard Features
 The Power BI dashboard includes several interactive components to support exploratory analysis:
 
 KPI Indicators
